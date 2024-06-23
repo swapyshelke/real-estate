@@ -13,6 +13,9 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #333;
     background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -59,4 +62,5 @@ nav ul li a:hover {
 
 .home {
   border: 2px solid red;
+  margin-top: 10rem;
 }
